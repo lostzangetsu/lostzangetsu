@@ -2,7 +2,7 @@
 - 👀 I’m interested in Linux and other stuffs
 - 🌱 I’m currently learning C++
 - 📫 My Main ACC is @lostluffyz ...
-- ⚡ Fun fact: 🗣️SMOOTH OPERATOR🔥🔥🔥
+- ⚡ 🗣️SMOOTH OPERATOR🔥🔥🔥
 
 <!---
 lostzangetsu/lostzangetsu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
